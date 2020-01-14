@@ -1,6 +1,8 @@
 ## Welcome
 
 ### Project:
-Testing of www.pracuj.pl website
+#### Project name: | Type: |
+------------------ | ----- |
+www.pracuj.pl | web |
 
 
