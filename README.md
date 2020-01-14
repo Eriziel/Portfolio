@@ -1,7 +1,7 @@
 ## Welcome
 
 ### Project:
-###### |        Project name: | Type: |
+       |        Project name: | Type: |
        | -------------------- | ----- |
        | www.pracuj.pl        | web   |
 
