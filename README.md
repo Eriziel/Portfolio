@@ -2,7 +2,7 @@
 
 ### Project:
 ###### Project name: | Type: 
------------------- | -----
-www.pracuj.pl      | web
+------------------------------- | -----
+www.pracuj.pl        | web
 
 
