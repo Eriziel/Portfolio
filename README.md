@@ -15,4 +15,4 @@
 
 ### 1. Mind map of the project:
 
-![Mind map] (Images/Mind_map.png)
+![Mind map](https://github.com/Eriziel/Portfolio/commit/50808dcbca93aac176f2e4f3b6056a59b1508d65#diff-2e119caccf56ed6ad71686457bc1c0df)
