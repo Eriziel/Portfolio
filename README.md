@@ -4,7 +4,7 @@
 
 ### Project:
 
-| Project name: |  Type: |
-| :--:          |  :--:  |
-| www.pracuj.pl |   web  |
+|                 Project name:                          |  Application name  | Type: |
+|                     :--:                               |        :--:        | :--:  |
+| Functional testing of popular work service application |   www.pracuj.pl    |  web  |
 
