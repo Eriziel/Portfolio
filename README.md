@@ -4,7 +4,7 @@
 
 ### Project:
 
-|                 Project name:                          |  Application name  | Type: |
+|                 Project name:                          |  Application name: | Type: |
 |                     :--:                               |        :--:        | :--:  |
 | Functional testing of popular work service application |   www.pracuj.pl    |  web  |
 
@@ -15,4 +15,4 @@
 
 ### 1. Project Mind map:
 
-![Mind map](Portfolio/Mind map.png)
+![Mind map](/Mind map.png)
