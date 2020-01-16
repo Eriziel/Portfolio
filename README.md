@@ -15,3 +15,4 @@
 
 ### 1. Project Mind map:
 
+![Mind map]
