@@ -15,4 +15,4 @@
 
 ### 1. Project Mind map:
 
-![Mind map](./Eriziel/Portfolio/Mind map.png)
+![Mind map] (./Eriziel/Portfolio/Mind map.png)
