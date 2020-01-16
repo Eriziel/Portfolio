@@ -15,4 +15,4 @@
 
 ### 1. Project Mind map:
 
-![Mind map](/Portfolio/Mind map.png)
+![Mind map] (Portfolio/Mind map.png)
