@@ -15,4 +15,4 @@
 
 ###### Mind map of the project
 
-![Mind map](images/mind_map.png)
+![Mind map](/images/mind_map.png)
