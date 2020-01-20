@@ -25,8 +25,6 @@
 [![Mantis bug report 2](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)
 
 Connected links: 
-1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057)
+1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057" target="_blank)
 2. [Mantis bug report 2](http://software-testing.ru/bts/view.php?id=10058)
 
-var pattern = /a href=/g;
-var sanitizedMarkDownText = rhttp://software-testing.ru/bts/view.php?id=10058(pattern,"a target='_blank' href=");
