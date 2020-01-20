@@ -25,7 +25,7 @@
 [![Mantis bug report 2](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png){target=_blank}
 
 Connected links: 
-1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057){target=blank}
-2. [Mantis bug report 2](http://software-testing.ru/bts/view.php?id=10058)({target=blank})
+1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057) {target=_blank}
+2. [Mantis bug report 2](http://software-testing.ru/bts/view.php?id=10058) {target=_blank}
 
 
