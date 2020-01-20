@@ -29,3 +29,4 @@ Connected links:
 2. [Mantis bug report 2](http://software-testing.ru/bts/view.php?id=10058){target=_blank}
 
 
+<a href="https://http://software-testing.ru/bts/view.php?id=10058" target="_blank">my link</a>
