@@ -15,17 +15,17 @@
 
 ###### Mind map of the project
 
-[![Mind map](https://eriziel.github.io/Portfolio/Images/Mind_map.png)](https://eriziel.github.io/Portfolio/Images/Mind_map.png){target=_blank}
+[![Mind map](https://eriziel.github.io/Portfolio/Images/Mind_map.png)](https://eriziel.github.io/Portfolio/Images/Mind_map.png)
 
 
 ###### Mantin bug reports
 
-[![Mantis bug report 1](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png){target=_blank}
+[![Mantis bug report 1](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)
 
-[![Mantis bug report 2](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png){target=_blank}
+[![Mantis bug report 2](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)
 
 Connected links: 
-1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057/?target=_blank)
-2. [Mantis bug report 2](http://software-testing.ru/bts/view.php?id=10058){target=_blank}
+1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057){target= "_blank"}
+2. [Mantis bug report 2](http://software-testing.ru/bts/view.php?id=10058)
 
 
