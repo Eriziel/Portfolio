@@ -26,5 +26,5 @@
 
 Connected links: 
 1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057)
-2. [Mantis bug report 2](http://software-testing.ru/bts/view.php?id=10058{:target="_blank"})
+2. [Mantis bug report 2](http://software-testing.ru/bts/view.php?id=10058)
 
