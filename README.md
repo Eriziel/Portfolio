@@ -28,7 +28,7 @@
 Connected links: 
 1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057)
 2. [Mantis bug report 2](https://software-testing.ru/bts/view.php?id=10112)
-3. [Mantis improvement](http://software-testing.ru/bts/view.php?id=10058)
+3. [Mantis improvement](https://software-testing.ru/bts/view.php?id=10065)
 
 ##### Redmine bug report
 
