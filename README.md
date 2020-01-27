@@ -43,3 +43,13 @@ Connected links:
 1. [Redmine bug report 1](http://redmine.qa-courses.com/issues/286)
 2. [Redmine bug report 2](http://redmine.qa-courses.com/issues/284)
 3. [Redmine bug report 3](http://redmine.qa-courses.com/issues/285)
+
+
+
+Connected links: 
+1. [Jira bug report 1](https://marcinb.atlassian.net/browse/PP-3?atlOrigin=eyJpIjoiNmUzNDI4ZWFlMWVhNGQ2OTllNmY5OTQ3YTQwYjJiYWEiLCJwIjoiaiJ9)
+2. [Jira bug report 2](https://marcinb.atlassian.net/browse/PP-1?atlOrigin=eyJpIjoiYTFlZTZiZmRlYWY3NDI4Y2I1NTljOTk0N2RjOTkxZWQiLCJwIjoiaiJ9)
+3. [Jira bug report 3](
+https://marcinb.atlassian.net/browse/PP-2?atlOrigin=eyJpIjoiMWI5Mzc4ZTkxOWNiNDFkZmJkMDEwMTAzOTNjYWU4MmIiLCJwIjoiaiJ9)
+
+
