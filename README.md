@@ -44,7 +44,7 @@ Connected links:
 2. [Redmine bug report 2](http://redmine.qa-courses.com/issues/284)
 3. [Redmine bug report 3](http://redmine.qa-courses.com/issues/285)
 
-
+##### Jira bug report
 
 Connected links: 
 1. [Jira bug report 1](https://marcinb.atlassian.net/browse/PP-3?atlOrigin=eyJpIjoiNmUzNDI4ZWFlMWVhNGQ2OTllNmY5OTQ3YTQwYjJiYWEiLCJwIjoiaiJ9)
