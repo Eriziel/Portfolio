@@ -24,12 +24,12 @@
 
 [![Mantis bug report 2](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)
 
-[![Mantis improvement](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)
+[![Mantis bug report 3](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)
 
 Connected links: 
 1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057)
 2. [Mantis bug report 2](https://software-testing.ru/bts/view.php?id=10112)
-3. [Mantis improvement](https://software-testing.ru/bts/view.php?id=10065)
+3. [Mantis bug report 3](https://software-testing.ru/bts/view.php?id=10065)
 
 ##### Redmine bug report
 
