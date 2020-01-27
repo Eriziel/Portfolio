@@ -33,7 +33,10 @@ Connected links:
 
 ##### Redmine bug report
 
-[![Redmine bug report 1](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)
+[![Redmine bug report 2](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_2.png)
+[![Redmine bug report 3](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_3.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_3.png)
 
 Connected links: 
-1. [Redmine bug report 1](http://redmine.qa-courses.com/issues/284)
+1. 2. [Redmine bug report 1](http://redmine.qa-courses.com/issues/286)
+2. [Redmine bug report 1](http://redmine.qa-courses.com/issues/284)
+3. [Redmine bug report 1](http://redmine.qa-courses.com/issues/285)
