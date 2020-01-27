@@ -23,6 +23,7 @@
 [![Mantis bug report 1](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)
 
 [![Mantis bug report 2](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)
+[![Mantis improvement](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)
 
 Connected links: 
 1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057)
