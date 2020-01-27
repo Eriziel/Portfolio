@@ -35,3 +35,5 @@ Connected links:
 
 [![Redmine bug report 1](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)
 
+Connected links: 
+1. [Redmine bug report 1](http://redmine.qa-courses.com/issues/223)
