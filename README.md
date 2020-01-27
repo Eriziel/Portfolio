@@ -49,7 +49,7 @@ Connected links:
 Connected links: 
 1. [Jira bug report 1](https://marcinb.atlassian.net/browse/PP-3?atlOrigin=eyJpIjoiNmUzNDI4ZWFlMWVhNGQ2OTllNmY5OTQ3YTQwYjJiYWEiLCJwIjoiaiJ9)
 2. [Jira bug report 2](https://marcinb.atlassian.net/browse/PP-1?atlOrigin=eyJpIjoiYTFlZTZiZmRlYWY3NDI4Y2I1NTljOTk0N2RjOTkxZWQiLCJwIjoiaiJ9)
-3. [Jira bug report 3](
+3. [Jira improvement](
 https://marcinb.atlassian.net/browse/PP-2?atlOrigin=eyJpIjoiMWI5Mzc4ZTkxOWNiNDFkZmJkMDEwMTAzOTNjYWU4MmIiLCJwIjoiaiJ9)
 
 
