@@ -1,4 +1,4 @@
-                                                                                              <a href="about/">About me</a>
+                                                                                  <a href="about.html/">About me</a>
 
 ## Welcome
 
