@@ -20,7 +20,7 @@
 
 ##### Mantis bug reports
 
-[![Mantis bug report 1](https://eriziel.github.io/PImages/Mantis_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)
+[![Mantis bug report 1](https://eriziel.github.io/Images/Mantis_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)
 
 [![Mantis bug report 2](https://eriziel.github.io/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)
 
