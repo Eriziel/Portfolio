@@ -1,4 +1,4 @@
-[about](http:// eriziel.github.io/about.html)
+[about](http://eriziel.github.io/about.html)
 
 ## Welcome
 
