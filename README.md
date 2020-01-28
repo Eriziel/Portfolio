@@ -13,12 +13,12 @@
 
   www.pracuj.pl is popular in Poland work service website. Its main goal is to intercede beetwen employer and employee. It provides helpful tools to simplify the work application for example: Resume creator, advanced work search, salary calculator.
 
-##### Mind map of the project
+#### Mind map of the project
 
 [![Mind map](https://eriziel.github.io/Portfolio/Images/Mind_map.png)](https://eriziel.github.io/Portfolio/Images/Mind_map.png)
 
 
-##### Mantis bug reports
+#### Mantis bug reports
 
 [![Mantis bug report 1](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)
 
@@ -31,7 +31,7 @@ Connected links:
 2. [Mantis bug report 2](https://software-testing.ru/bts/view.php?id=10112)
 3. [Mantis bug report 3](https://software-testing.ru/bts/view.php?id=10065)
 
-##### Redmine bug report
+#### Redmine bug report
 
 [![Redmine bug report 1](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)
 
@@ -44,7 +44,7 @@ Connected links:
 2. [Redmine bug report 2](http://redmine.qa-courses.com/issues/284)
 3. [Redmine bug report 3](http://redmine.qa-courses.com/issues/285)
 
-##### Jira bug report
+#### Jira bug report
 
 Connected links: 
 1. [Jira bug report 1](https://marcinb.atlassian.net/browse/PP-3?atlOrigin=eyJpIjoiNmUzNDI4ZWFlMWVhNGQ2OTllNmY5OTQ3YTQwYjJiYWEiLCJwIjoiaiJ9)
