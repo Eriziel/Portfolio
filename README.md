@@ -1,5 +1,3 @@
-                                                   <a> href="./">Home</a>
-
 ## Welcome
 
 
