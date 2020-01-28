@@ -15,16 +15,16 @@
 
 #### Mind map of the project
 
-[![Mind map](https://eriziel.github.io/Portfolio/Images/Mind_map.png)](https://eriziel.github.io/Portfolio/Images/Mind_map.png)
+[![Mind map](https://eriziel.github.io/portfolio/Images/Mind_map.png)](https://eriziel.github.io/Portfolio/Images/Mind_map.png)
 
 
 #### Mantis bug reports
 
-[![Mantis bug report 1](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)
+[![Mantis bug report 1](https://eriziel.github.io/portfolio/Images/Mantis_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_1.png)
 
-[![Mantis bug report 2](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)
+[![Mantis bug report 2](https://eriziel.github.io/portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Mantis_bug_report_2.png)
 
-[![Mantis bug report 3](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)
+[![Mantis bug report 3](https://eriziel.github.io/portfolio/Images/Mantis_improvement.png)](https://eriziel.github.io/Portfolio/Images/Mantis_improvement.png)
 
 Connected links: 
 1. [Mantis bug report 1](http://software-testing.ru/bts/view.php?id=10057)
@@ -33,11 +33,11 @@ Connected links:
 
 #### Redmine bug reports
 
-[![Redmine bug report 1](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)
+[![Redmine bug report 1](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_1.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_1.png)
 
-[![Redmine bug report 2](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_2.png)
+[![Redmine bug report 2](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_2.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_2.png)
 
-[![Redmine bug report 3](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_3.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_3.png)
+[![Redmine bug report 3](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_3.png)](https://eriziel.github.io/Portfolio/Images/Redmine_bug_report_3.png)
 
 Connected links: 
 1. [Redmine bug report 1](http://redmine.qa-courses.com/issues/286)
