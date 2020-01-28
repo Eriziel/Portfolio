@@ -1,4 +1,4 @@
-[About Me](./portfolio/blob/master/about.html)
+[About Me](Eriziel/portfolio/blob/master/about.html)
 
 ## Welcome
 
