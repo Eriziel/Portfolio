@@ -1,5 +1,3 @@
-[About Me](https://eriziel.github.io/portfolio/blob/master/about.html)
-
 ## Welcome
 
 
