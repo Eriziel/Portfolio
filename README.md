@@ -15,7 +15,7 @@
 
 #### Mind map of the project
 
-![Mind map](https://eriziel.github.io/portfolio/Images/Mind_map.png)]
+[![Mind map](https://eriziel.github.io/portfolio/Images/Mind_map.png)]
 (https://eriziel.github.io/Portfolio/Images/Mind_map.png)
 
 
