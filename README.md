@@ -15,27 +15,27 @@
 
 #### Mind map of the project
 
-![Mind map](https://eriziel.github.io/portfolio/Images/Mind_map.png)
+[![Mind map](https://eriziel.github.io/portfolio/Images/Mind_map.png)](https://eriziel.github.io/portfolio/Images/Mind_map.png)
 
 
 #### Mantis reports
 
 [![Mantis bug report 1](https://eriziel.github.io/portfolio/Images/Mantis_bug_report_1.png)](https://eriziel.github.io/portfolio/Images/Mantis_bug_report_1.png)
-![Mantis bug report 2](https://eriziel.github.io/portfolio/Images/Mantis_bug_report_2.png)
-![Mantis bug report 3](https://eriziel.github.io/portfolio/Images/Mantis_improvement.png)
+[![Mantis bug report 2](https://eriziel.github.io/portfolio/Images/Mantis_bug_report_2.png)](https://eriziel.github.io/portfolio/Images/Mantis_bug_report_2.png)
+[![Mantis bug report 3](https://eriziel.github.io/portfolio/Images/Mantis_improvement.png)](https://eriziel.github.io/portfolio/Images/Mantis_improvement.png)
 
 
 #### Redmine bug reports
 
-![Redmine bug report 1](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_1.png)
-![Redmine bug report 2](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_2.png)
-![Redmine bug report 3](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_3.png)
+[![Redmine bug report 1](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_1.png)](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_1.png)
+[![Redmine bug report 2](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_2.png)](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_2.png)
+[![Redmine bug report 3](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_3.png)](https://eriziel.github.io/portfolio/Images/Redmine_bug_report_3.png)
 
 
 #### Jira reports
 
-1. [Jira bug report 1](https://eriziel.github.io/portfolio/Images/Jira_bug_report_1.png)
-2. [Jira bug report 2](https://eriziel.github.io/portfolio/Images/Jira_bug_report_2.png)
-3. [Jira improvement](https://eriziel.github.io/portfolio/Images/Jira_improvement.png)
+[![Jira bug report 1](https://eriziel.github.io/portfolio/Images/Jira_bug_report_1.png)](https://eriziel.github.io/portfolio/Images/Jira_bug_report_1.png)
+[![Jira bug report 2](https://eriziel.github.io/portfolio/Images/Jira_bug_report_2.png)](https://eriziel.github.io/portfolio/Images/Jira_bug_report_2.png)
+[![Jira improvement](https://eriziel.github.io/portfolio/Images/Jira_improvement.png)](https://eriziel.github.io/portfolio/Images/Jira_improvement.png)
 
 
