@@ -5,4 +5,5 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 
 ## Testing weapon of choice
 1. [Mindmup](https://www.mindmup.com/) - mind map creator
-2. 
+2. [Jira](https://www.atlassian.com/software/jira0), [Redmine](https://www.redmine.org/projects/redmine/wiki) - open source test management software
+3. 
