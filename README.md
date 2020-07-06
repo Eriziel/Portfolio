@@ -25,4 +25,4 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 
 ### pracuj.pl
 
-[Mind map](https://drive.google.com/file/d/13D-q8j7EQwQP7Hs1pCDXK8ByGU-nYBIJ/view?usp=sharing) - mind map of the site
+[pracuj.pl mind map](https://drive.google.com/file/d/13D-q8j7EQwQP7Hs1pCDXK8ByGU-nYBIJ/view?usp=sharing) - mind map of the site
