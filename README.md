@@ -35,6 +35,11 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 ## Recommended blogs
 
 * [testerzy.pl](www.testerzy.pl)
+* [testuj.pl](https://testuj.pl/blog/)
+* [testerka.pl](http://testerka.pl/)
+* [bugfreeblog.com](https://bugfreeblog.com/)
+* [flynerd.pl](https://www.flynerd.pl/)
+* [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 
 ## Projects
 
