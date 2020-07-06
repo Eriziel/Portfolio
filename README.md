@@ -13,9 +13,15 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 7. [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
 
 ## Technical skills
-1. Software testing
-2. SQL
-3. C# basics
-4. Dev Tools
+1. SQL
+2. C# basics
+3. Dev Tools
+4. Software testing
 5. Test cases
 6. Checklists
+7. Bug reporting
+
+## Projects
+
+### pracuj.pl
+
