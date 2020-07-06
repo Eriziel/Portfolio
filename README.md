@@ -21,6 +21,21 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 6. Checklists
 7. Bug reporting
 
+## Courses & Certificates
+
+[ISTQB Foundation Level](https://sjsi.org/nowy-sylabus-istqb-certyfikowany-tester-poziom-podstawowy-2018/)
+[QA Testers School](https://qa-courses.com/szkola-testerow/)
+
+## Books
+
+* R. Smilgin "Zawód tester"
+* K. Jadczyk " Pasja testowania"
+* A. Roman "Testowanie i jakość oprogramowania"
+
+## Recommended blogs
+
+* [testerzy.pl](www.testerzy.pl)
+
 ## Projects
 
 ### pracuj.pl
@@ -30,3 +45,4 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 [Test case example](https://drive.google.com/file/d/1bNCd1GOd7HNieE_N9fv1X4LZJlcgi5wk/view?usp=sharing) - Test cases for Basics informations in Resume Creator
 
 [Bug reports](https://drive.google.com/file/d/11XuiA1S0vMyTyISBLAMXfTjJ6FNp64sx/view?usp=sharing)
+
