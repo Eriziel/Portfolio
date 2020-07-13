@@ -53,3 +53,5 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 
 [Bug reports](https://drive.google.com/file/d/11XuiA1S0vMyTyISBLAMXfTjJ6FNp64sx/view?usp=sharing)
 
+[State transition example](https://drive.google.com/file/d/12wux2GDbyg2C0xfurU1kFQmIFH2y39jR/view?usp=sharing) - State transition created for job search function
+
