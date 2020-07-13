@@ -24,6 +24,7 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 ## Courses & Certificates
 
 [ISTQB Foundation Level](https://sjsi.org/nowy-sylabus-istqb-certyfikowany-tester-poziom-podstawowy-2018/)
+
 [QA Testers School](https://qa-courses.com/szkola-testerow/)
 
 ## Books
