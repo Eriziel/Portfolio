@@ -56,3 +56,7 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 
 [State transition example](https://drive.google.com/file/d/12wux2GDbyg2C0xfurU1kFQmIFH2y39jR/view?usp=sharing) - State transition created for job search function
 
+
+### Mr Buggy 3
+
+[Exercise 1 & 3 test cases (in progress...)]([Test case example no 2](https://drive.google.com/file/d/1u6Pt9Rwj3HD-9yL-ekci1GkvkY1jFiPO/view?usp=sharing) - Test cases for Exerciese 1 and Exercise 3
