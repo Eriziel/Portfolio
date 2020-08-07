@@ -59,4 +59,4 @@ My name is Marcin Bucholc. I am psychologist, diagnostician and since 2019 a sof
 
 ### Mr Buggy 3
 
-[Exercise 1 & 3 test cases (in progress)](https://drive.google.com/file/d/1u6Pt9Rwj3HD-9yL-ekci1GkvkY1jFiPO/view?usp=sharing) - Test cases for Exerciese 1 and Exercise 3 (in progress
+[Exercise 1 & 3 test cases (in progress)](https://drive.google.com/file/d/1M0P_iDyd8QhXl4kbvjR31xMX-ecbOvMa/view?usp=sharing) - Test cases for Exerciese 1 and Exercise 3 (in progress
